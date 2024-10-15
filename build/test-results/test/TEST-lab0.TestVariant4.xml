@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="lab0.TestVariant4" tests="14" skipped="0" failures="0" errors="0" timestamp="2024-10-15T14:59:50" hostname="WIN-UCMNTA39RVS" time="0.04">
+  <properties/>
+  <testcase name="BooleanTestBothFalse" classname="lab0.TestVariant4" time="0.006"/>
+  <testcase name="BooleanTestBothTrue" classname="lab0.TestVariant4" time="0.001"/>
+  <testcase name="BooleanTestOneTrueOneFalse" classname="lab0.TestVariant4" time="0.002"/>
+  <testcase name="IntegerTest" classname="lab0.TestVariant4" time="0.001"/>
+  <testcase name="arrayTest" classname="lab0.TestVariant4" time="0.001"/>
+  <testcase name="caseTest" classname="lab0.TestVariant4" time="0.001"/>
+  <testcase name="forTest" classname="lab0.TestVariant4" time="0.0"/>
+  <testcase name="ifTestOne" classname="lab0.TestVariant4" time="0.0"/>
+  <testcase name="ifTestThree" classname="lab0.TestVariant4" time="0.0"/>
+  <testcase name="ifTestTwo" classname="lab0.TestVariant4" time="0.0"/>
+  <testcase name="ifTestZero" classname="lab0.TestVariant4" time="0.001"/>
+  <testcase name="matrixTest" classname="lab0.TestVariant4" time="0.005"/>
+  <testcase name="whileTestFalse" classname="lab0.TestVariant4" time="0.0"/>
+  <testcase name="whileTestTrue" classname="lab0.TestVariant4" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
